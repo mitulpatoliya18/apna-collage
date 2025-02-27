@@ -1,2 +1,3 @@
-# apna-collage
-this is my first git repository.
+# Apna-CollageDemo
+This Is My First Git Repository.
+Author - Mitul Patoliya
